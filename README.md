@@ -14,3 +14,12 @@ This is for the whole community!! 😀😀😀 If you find any good resource and
 
 [The 2019 UI Design Crash Course for Beginners - DesignCourse](https://www.youtube.com/watch?v=_Hp_dI0DzY4&t=3813s)
 
+## Javascript
+
+### Books
+[Exploring JS: Javascript book for programmers](https://exploringjs.com/) - Books about Javascript written
+by Dr. Axel Rauschmayer.
+
+[Eloquent Javascript](http://eloquentjavascript.net/) - A great reference to learn Javascript, covering
+from fundamentals of the language to basics of Node.
+
