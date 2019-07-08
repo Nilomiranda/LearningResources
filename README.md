@@ -23,9 +23,5 @@ by Dr. Axel Rauschmayer.
 [Eloquent Javascript](http://eloquentjavascript.net/) - A great reference to learn Javascript, covering
 from fundamentals of the language to basics of Node.
 
-## Functional Programming
-
-### Books
-
-[A General Theory of Reactivity](https://kriskowal.gitbooks.io/gtor/content/)
+[Async javascript - A General Theory of Reactivity](https://kriskowal.gitbooks.io/gtor/content/)
 
